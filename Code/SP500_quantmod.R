@@ -15,3 +15,4 @@ sp500 <- environment_sp500$GSPC
 df_sp500 <- data.frame(date = index(sp500), coredata(sp500))
 
 
+# kommentar
